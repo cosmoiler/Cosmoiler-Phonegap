@@ -4,8 +4,8 @@
     <description>
         Automatic oiler motorcycle chain.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="cosmoiler@gmail.com" href="http://cosmoiler.ru">
+        Sergey Borisov
     </author>
     <content src="index.html" />
     <access origin="*" />
