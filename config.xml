@@ -11,5 +11,5 @@
     <access origin="*" />
 
 	<preference name="android-minSdkVersion" value=21/>	
-
+	<icon src="res/icon.png" />
 </widget>
