@@ -1,10 +1,10 @@
-# A Blank PhoneGap App
+# Cosmoiler PhoneGap App
 
 ## Usage
 
-### PhoneGap CLI
+### PhoneGap Build
 
-    $ phonegap create my-app --template blank
+    Go to https://build.phonegap.com
 
 ### Desktop
 
