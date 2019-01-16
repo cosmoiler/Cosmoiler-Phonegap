@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
+<<<<<<< HEAD
 <widget id="com.cosmoiler.ru" version="2.8" versionCode="28" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+=======
+<widget id="com.cosmoiler.ru" version="2.8" versionCode="10028" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+>>>>>>> 333d252b2e324c7ee1b3e9e1eb142931189488ca
     <name>Cosmoiler</name>
     <description>
         Automatic oiler motorcycle chain.
@@ -25,7 +29,11 @@
         <icon src="res/android/xhdpi.png" density="xhdpi" />
         <icon src="res/android/xxhdpi.png" density="xxhdpi" />
         <icon src="res/android/xxxhdpi.png" density="xxxhdpi" />
+<<<<<<< HEAD
 		<preference name="android-targetSdkVersion" value="26"/>
+=======
+        <preference name="android-targetSdkVersion" value="26"/>
+>>>>>>> 333d252b2e324c7ee1b3e9e1eb142931189488ca
     </platform>
     <platform name="ios">
         <!-- iOS 8.0+ -->
