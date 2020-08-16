@@ -25,7 +25,7 @@
         <icon src="res/android/xhdpi.png" density="xhdpi" />
         <icon src="res/android/xxhdpi.png" density="xxhdpi" />
         <icon src="res/android/xxxhdpi.png" density="xxxhdpi" />
-        <preference name="android-targetSdkVersion" value="26"/>
+        <preference name="android-targetSdkVersion" value="28"/>
     </platform>
     <platform name="ios">
         <!-- iOS 8.0+ -->
